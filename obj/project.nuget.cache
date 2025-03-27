@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ca4gifB/ug=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joeln\\Downloads\\AIAppointmentBot\\OnlineBookingSystem\\OnlineBookingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joeln\\.nuget\\packages\\system.io.pipelines\\9.0.3\\system.io.pipelines.9.0.3.nupkg.sha512",
+    "C:\\Users\\joeln\\.nuget\\packages\\system.net.http.json\\9.0.3\\system.net.http.json.9.0.3.nupkg.sha512",
+    "C:\\Users\\joeln\\.nuget\\packages\\system.text.encodings.web\\9.0.3\\system.text.encodings.web.9.0.3.nupkg.sha512",
+    "C:\\Users\\joeln\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
